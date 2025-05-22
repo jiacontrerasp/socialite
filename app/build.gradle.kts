@@ -37,12 +37,12 @@ secrets {
 
 android {
     namespace = "com.google.android.samples.socialite"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.google.android.samples.socialite"
         minSdk = 21
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
